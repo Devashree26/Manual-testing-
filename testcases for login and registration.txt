@@ -1,0 +1,22 @@
+login with valid user name and password
+login with invalid username and password
+login with invalid username and valid password
+login with valid username and invalid password
+verify that the password is in encrypte form
+verify the strength of the password good /bad
+login button user interfacee
+verify that the forgot password link works and redirects to the email address for password
+verify that rest password shows the option to rest the password
+verify that the password changed works properly with the login 
+verify with large combination of password that is the maximum length
+verify with the less combination of password
+verify that the browser shows the auto save password option 
+verify the registration with mandatory fields
+verify the registration without entering the mandotry fields
+verify that the drop option works for the country field
+verify that the search option works in the country field
+verify that the country field is highlighted when selected in drop box
+verify by selectin the correct captcha option
+verify by selecting the incorrect captcha option
+verify that the refresh option works in the captcha
+verify with invalid and valid password
